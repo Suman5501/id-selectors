@@ -1,0 +1,54 @@
+  #images{
+    width:12em;
+    height: 10em;
+ }
+            
+            .details{
+                
+                text-align:center;
+                font-size:1.25em;
+            }
+            #clg{
+                padding:1em;
+                background-color:rgb(186 176 176);
+            }
+             #ss{
+                padding:1em;
+                background-color:rgb(174 232 144 / 66%);
+            }
+            
+            #ps{
+                padding:1em;
+                background-color:rgb(81 101 131 / 80%);
+            }
+            
+            
+            table{
+                border: 3px solid black;
+                
+                margin:auto;
+            }
+            th,td{
+                padding: 1em;
+                text-align: center;
+                border: 1px solid black;
+                
+            }
+        
+            h1{
+                font-size:2em;
+                font-family: Verdana, Geneva, Tahoma, sans-serif;
+            }
+
+            h3{
+                text-align: center;
+                font-size:1.25em;
+                font-family: Verdana, Geneva, Tahoma, sans-serif;
+                padding: 1em;
+            }
+         
+            h5{
+                font-size:1em;
+                font-family: Verdana, Geneva, Tahoma, sans-serif;
+            }
+         
