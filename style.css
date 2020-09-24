@@ -5,7 +5,7 @@
             
 .details{
   text-align:center;
-  font-size:1.25em;
+  font-size:1em;
 }
 #clg{
   padding:1em;
@@ -33,19 +33,19 @@ th{
 }
         
 h1{
-  font-size:2em;
+  font-size:1.5em;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 h3{
   text-align: center;
-  font-size:1.25em;
+  font-size:1em;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   padding: 1em;
 }
          
 h5{
-  font-size:1em;
+  font-size:0.75em;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
          
